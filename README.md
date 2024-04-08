@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekboadgurjar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekboadgurjar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishekboad" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekboad?logo=twitter&style=for-the-badge" alt="abhishekboad" /></a> </p>
-
 - 📫 How to reach me **abhishekgurjarofcl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
