@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **abhishekgurjarofcl@gmail.com**
 
-- 📄 Know about my experiences [https://abhishekgurjar.netlify.app/resume](https://abhishekgurjar.netlify.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
