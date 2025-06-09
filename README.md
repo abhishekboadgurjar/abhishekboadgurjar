@@ -56,7 +56,6 @@ currently_learning:
 hobbies: 
   - "Coding 💻"
   - "Reading Tech Blogs 📚"
-  - "Playing Chess ♟️"
   - "Exploring New Places 🌍"
 ```
 
@@ -72,12 +71,6 @@ hobbies:
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Programming Languages
 
-| Language | Experience | Projects |
-|----------|------------|----------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 3+ years | 50+ |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | 2+ years | 20+ |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | 4+ years | 30+ |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | 3+ years | 25+ |
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Frontend Technologies
 
@@ -243,7 +236,7 @@ abhishek.sayHi();
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
       <br />
-      <strong>⚡ 1000+ Problems Solved</strong>
+      <strong>⚡ 250+ Problems Solved</strong>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
