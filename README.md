@@ -1,14 +1,12 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Gurjar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="1734" height="390" alt="Blue Modern Dance Channel Youtube Banner (1)" src="https://github.com/user-attachments/assets/0f47898a-fefb-4210-b9b8-523e121db459" />
 
-</div>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Passionate+Coder+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=180&lines=Full+Stack+Developer+%F0%9F%9A%80;Passionate+Coder+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="80"/>
+
   
 </div>
 
