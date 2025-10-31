@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1734" height="390" alt="Blue Modern Dance Channel Youtube Banner (1)" src="https://github.com/user-attachments/assets/0f47898a-fefb-4210-b9b8-523e121db459" />
+<img width="1654" height="400" alt="Blue Modern Dance Channel Youtube Banner (2) (1)" src="https://github.com/user-attachments/assets/23bf2707-804f-41f7-9426-7d1354742609" />
 
 
 <div align="center">
